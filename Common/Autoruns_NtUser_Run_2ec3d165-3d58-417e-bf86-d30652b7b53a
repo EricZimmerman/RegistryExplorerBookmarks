@@ -1,0 +1,1 @@
+{"Name":"Run","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Run","ShortDescription":"User run key","LongDescription":"Things set to start up automatically","InternalID":"2ec3d165-3d58-417e-bf86-d30652b7b53a","HiveType":"NtUser","Category":"Autoruns"}

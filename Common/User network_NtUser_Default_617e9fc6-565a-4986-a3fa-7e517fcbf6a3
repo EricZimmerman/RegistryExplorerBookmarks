@@ -1,0 +1,1 @@
+{"Name":"Default","KeyPath":"Software\\Microsoft\\Terminal Server Client\\Default","ShortDescription":"Terminal server hosts","LongDescription":"Servers connected via terminal services (MSTSC)","InternalID":"617e9fc6-565a-4986-a3fa-7e517fcbf6a3","HiveType":"NtUser","Category":"User network"}

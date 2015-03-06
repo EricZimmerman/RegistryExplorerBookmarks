@@ -1,0 +1,1 @@
+{"Name":"UserAssist","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UserAssist","ShortDescription":"Recently accessed items","LongDescription":"Contains a list of ROT-13 encoded values for things like shortcuts, programs, etc","InternalID":"660a4ade-592f-4c64-bd85-8241378d0839","HiveType":"NtUser","Category":"Program execution"}

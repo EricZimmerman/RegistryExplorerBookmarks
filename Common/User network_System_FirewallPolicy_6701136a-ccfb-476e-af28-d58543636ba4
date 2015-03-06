@@ -1,0 +1,1 @@
+{"Name":"FirewallPolicy","KeyPath":"ControlSet001\\Services\\SharedAccess\\Parameters\\FirewallPolicy","ShortDescription":"Firewall rules","LongDescription":"A list of programs that have been allowed access to the Internet through the firewall","InternalID":"6701136a-ccfb-476e-af28-d58543636ba4","HiveType":"System","Category":"User network"}

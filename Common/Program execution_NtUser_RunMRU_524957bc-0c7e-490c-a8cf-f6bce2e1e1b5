@@ -1,0 +1,1 @@
+{"Name":"RunMRU","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU","ShortDescription":"Most recently run programs","LongDescription":"Contains a list of the most recently started programs via the Start | Run menu","InternalID":"524957bc-0c7e-490c-a8cf-f6bce2e1e1b5","HiveType":"NtUser","Category":"Program execution"}

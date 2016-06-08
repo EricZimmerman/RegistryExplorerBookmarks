@@ -1,0 +1,1 @@
+{"Type":"User","Name":"EventLog","KeyPath":"ControlSet001\\Services\\EventLog","ShortDescription":"Event log information","LongDescription":"http://msdn.microsoft.com/en-us/library/aa363648(VS.85).aspx","InternalID":"e99f1b87-9f35-4876-a5c5-3c99b92e4bfd","HiveType":"System","Category":"Operating system"}

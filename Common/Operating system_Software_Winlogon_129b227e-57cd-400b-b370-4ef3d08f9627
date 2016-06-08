@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Winlogon","KeyPath":"Microsoft\\Windows NT\\CurrentVersion\\Winlogon","ShortDescription":"Information related to login","LongDescription":"Includes Default username, domain name, auto admin login, legal notice, etc","InternalID":"129b227e-57cd-400b-b370-4ef3d08f9627","HiveType":"Software","Category":"Operating system"}

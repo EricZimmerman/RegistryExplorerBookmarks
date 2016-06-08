@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Memory Management","KeyPath":"ControlSet001\\Control\\Session Manager\\Memory Management","ShortDescription":"Page file parameters","LongDescription":"Includes ClearPageFileAtShutdown, page file name, etc","InternalID":"15dc67bb-bf95-46ef-87db-e4e34e387125","HiveType":"System","Category":"Operating system"}

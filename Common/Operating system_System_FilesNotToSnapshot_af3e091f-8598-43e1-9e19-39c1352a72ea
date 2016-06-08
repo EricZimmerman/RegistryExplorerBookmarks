@@ -1,0 +1,1 @@
+{"Type":"User","Name":"FilesNotToSnapshot","KeyPath":"ControlSet001\\Control\\BackupRestore\\FilesNotToSnapshot","ShortDescription":"Files not to backup in volume snapshot","LongDescription":"http://msdn.microsoft.com/en-us/library/windows/desktop/bb891959(v=vs.85).aspx\r\n","InternalID":"af3e091f-8598-43e1-9e19-39c1352a72ea","HiveType":"System","Category":"Operating system"}

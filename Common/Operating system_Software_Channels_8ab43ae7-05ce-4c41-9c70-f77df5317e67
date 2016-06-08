@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Channels","KeyPath":"Microsoft\\Windows\\CurrentVersion\\WINEVT\\Channels","ShortDescription":"Windows Event log settings","LongDescription":"The various subkeys will indicate which event logging is enabled via the 'Enabled' value","InternalID":"8ab43ae7-05ce-4c41-9c70-f77df5317e67","HiveType":"Software","Category":"Operating system"}

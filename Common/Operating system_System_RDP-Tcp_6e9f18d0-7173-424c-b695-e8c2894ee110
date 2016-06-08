@@ -1,0 +1,1 @@
+{"Type":"User","Name":"RDP-Tcp","KeyPath":"ControlSet001\\Control\\Terminal Server\\WinStations\\RDP-Tcp","ShortDescription":"RDP info","LongDescription":"Includes port # (PortNumber value) used for remote desktop","InternalID":"6e9f18d0-7173-424c-b695-e8c2894ee110","HiveType":"System","Category":"Operating system"}

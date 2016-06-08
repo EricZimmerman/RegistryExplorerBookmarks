@@ -1,0 +1,1 @@
+{"Type":"User","Name":"FileSystem","KeyPath":"ControlSet001\\Control\\FileSystem","ShortDescription":"File system options","LongDescription":"Includes such things as NTFSDisableLastAccessUpdate, 8.3 name creation, etc","InternalID":"b20a0736-0d62-4a26-9539-a53ded5f152b","HiveType":"System","Category":"Operating system"}

@@ -1,0 +1,1 @@
+{"Type":"User","Name":"FileExts","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts","ShortDescription":"List of programs used to open files by extension","LongDescription":"Also includes which program a user selected.","InternalID":"03427bd9-675f-4564-9d7b-058e797a7cb6","HiveType":"NtUser","Category":"Program execution"}

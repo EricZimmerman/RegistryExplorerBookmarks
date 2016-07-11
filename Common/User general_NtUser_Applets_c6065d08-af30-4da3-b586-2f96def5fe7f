@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Applets","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Applets","ShortDescription":"Last Registry Viewed","LongDescription":"Last Registry Viewed by the user (diff users will have different values if each accessed the registry using RegEdit).","InternalID":"c6065d08-af30-4da3-b586-2f96def5fe7f","HiveType":"NtUser","Category":"User general"}

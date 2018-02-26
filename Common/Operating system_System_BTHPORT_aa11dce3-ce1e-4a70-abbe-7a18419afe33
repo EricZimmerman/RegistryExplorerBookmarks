@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Bluetooth BTHPORT","KeyPath":"ControlSet001\\services\\BTHPORT\\Parameters\\Devices","ShortDescription":"Displays Bluetooth connection history","LongDescription":"Displays Bluetooth connection history\r\n","InternalID":"aa11dce3-ce1e-4a70-abbe-7a18419afe33","HiveType":"System","Category":"Operating system"}

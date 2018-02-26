@@ -1,0 +1,1 @@
+{"Type":"User","Name":"NetworkList","KeyPath":"Microsoft\\Windows NT\\CurrentVersion\\NetworkList","ShortDescription":"Contains information about networks a computer has connected to","LongDescription":"A plugin exists for this key","InternalID":"d1f7ed49-2bc8-48c5-86cc-4d759cf7fb4f","HiveType":"Software","Category":"Network"}

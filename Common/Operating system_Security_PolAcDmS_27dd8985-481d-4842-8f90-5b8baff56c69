@@ -1,0 +1,1 @@
+{"Type":"User","Name":"PolAcDmS","KeyPath":"Policy\\PolAcDmS","ShortDescription":"Machine SID","LongDescription":"The SID for the Machine within a domain (domain could be workgroup too).","InternalID":"27dd8985-481d-4842-8f90-5b8baff56c69","HiveType":"Security","Category":"Operating system"}

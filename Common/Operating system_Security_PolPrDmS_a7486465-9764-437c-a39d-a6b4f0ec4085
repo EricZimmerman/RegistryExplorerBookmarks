@@ -1,0 +1,1 @@
+{"Type":"User","Name":"PolPrDmS","KeyPath":"Policy\\PolPrDmS","ShortDescription":"Domain SID","LongDescription":"The SID of the domain that the computer is joined to.","InternalID":"a7486465-9764-437c-a39d-a6b4f0ec4085","HiveType":"Security","Category":"Operating system"}

@@ -1,0 +1,1 @@
+{"Type":"User","Name":"LogonUI","KeyPath":"Microsoft\\Windows\\CurrentVersion\\Authentication\\LogonUI","ShortDescription":"Last Logged On User","LongDescription":"The Last Loggon On User that was on the system","InternalID":"f1627ffc-939e-4da8-9970-55a1f90f545e","HiveType":"Software","Category":"Logging"}

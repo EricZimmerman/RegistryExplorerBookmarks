@@ -1,0 +1,1 @@
+{"Type":"User","Name":"FeatureUsage","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FeatureUsage","ShortDescription":"User activity","LongDescription":"Reconstructing User Activity for Forensics with FeatureUsage: https://www.group-ib.com/blog/featureusage","InternalID":"20c3d1cd-a702-4bd4-8d4e-6fbbf0f833e2","HiveType":"NtUser","Category":"User general"}

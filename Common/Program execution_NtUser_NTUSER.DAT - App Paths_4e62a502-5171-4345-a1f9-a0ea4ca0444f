@@ -1,1 +1,1 @@
-{"Type":"User","Name":"NTUSER.DAT - App Paths","KeyPath":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths","ShortDescription":"NTUSER.DAT - App Paths","LongDescription":"","InternalID":"4e62a502-5171-4345-a1f9-a0ea4ca0444f","HiveType":"NtUser","Category":"Program execution"}
+{"Type":"Common","Name":"NTUSER.DAT - App Paths","KeyPath":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths","ShortDescription":"NTUSER.DAT - App Paths","LongDescription":"","InternalID":"4e62a502-5171-4345-a1f9-a0ea4ca0444f","HiveType":"NtUser","Category":"Program execution"}

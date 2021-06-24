@@ -1,1 +1,1 @@
-{"Type":"User","Name":"SOFTWARE - App Paths","KeyPath":"Microsoft\\Windows\\CurrentVersion\\App Paths","ShortDescription":"SOFTWARE - App Paths","LongDescription":"","InternalID":"addc2a0b-c13c-466c-ab15-700fdd8e1d07","HiveType":"Software","Category":"Program execution"}
+{"Type":"Common","Name":"SOFTWARE - App Paths","KeyPath":"Microsoft\\Windows\\CurrentVersion\\App Paths","ShortDescription":"SOFTWARE - App Paths","LongDescription":"","InternalID":"addc2a0b-c13c-466c-ab15-700fdd8e1d07","HiveType":"Software","Category":"Program execution"}

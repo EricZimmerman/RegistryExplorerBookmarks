@@ -1,1 +1,1 @@
-{"Type":"User","Name":"Sessions","KeyPath":"Software\\Martin Prikryl\\WinSCP 2\\Sessions","ShortDescription":"WinSCP saved sessions","LongDescription":"","InternalID":"97906da8-5a77-4675-8baa-d3d00300693b","HiveType":"NtUser","Category":"Software"}
+{"Type":"Common","Name":"Sessions","KeyPath":"Software\\Martin Prikryl\\WinSCP 2\\Sessions","ShortDescription":"WinSCP saved sessions","LongDescription":"","InternalID":"97906da8-5a77-4675-8baa-d3d00300693b","HiveType":"NtUser","Category":"Software"}

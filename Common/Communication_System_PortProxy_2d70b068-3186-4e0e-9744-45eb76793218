@@ -1,0 +1,1 @@
+{"Name":"PortProxy","KeyPath":"ControlSet001\\Services\\PortProxy\\v4tov4\\tcp","ShortDescription":"Port proxy configuration","LongDescription":"Local port proxy configuration added by e.g. netsh.","InternalID":"2d70b068-3186-4e0e-9744-45eb76793218","HiveType":"System","Category":"Communication"}

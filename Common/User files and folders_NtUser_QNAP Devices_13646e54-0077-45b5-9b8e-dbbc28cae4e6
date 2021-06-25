@@ -1,0 +1,1 @@
+{"Type":"Common","Name":"QNAP Devices","KeyPath":"SOFTWARE\\QNAP\\Qfinder\\WOL","ShortDescription":"QNAP QFinder Registry Key","LongDescription":"Provides name, IP address, firmware version, make, and model of any attached QNAP devices. ","InternalID":"13646e54-0077-45b5-9b8e-dbbc28cae4e6","HiveType":"NtUser","Category":"User files and folders"}

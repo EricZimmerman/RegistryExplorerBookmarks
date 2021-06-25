@@ -1,1 +1,1 @@
-{"Type":"User","Name":"UserExtendedProperties","KeyPath":"Software\\Microsoft\\MSOIdentityCRL\\UserExtendedProperties","ShortDescription":"Microsoft account","LongDescription":"","InternalID":"f47bd62c-8620-49e2-a3e8-7faff298751a","HiveType":"NtUser","Category":"User configuration"}
+{"Type":"Common","Name":"UserExtendedProperties","KeyPath":"Software\\Microsoft\\MSOIdentityCRL\\UserExtendedProperties","ShortDescription":"Microsoft account","LongDescription":"","InternalID":"f47bd62c-8620-49e2-a3e8-7faff298751a","HiveType":"NtUser","Category":"User configuration"}

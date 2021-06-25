@@ -1,1 +1,1 @@
-{"Type":"User","Name":"TaskCache","KeyPath":"Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache","ShortDescription":"TaskCache","LongDescription":"","InternalID":"6f82904c-a58c-4bfb-98c4-e7f3926e4775","HiveType":"Software","Category":"Program execution"}
+{"Type":"Common","Name":"TaskCache","KeyPath":"Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache","ShortDescription":"TaskCache","LongDescription":"","InternalID":"6f82904c-a58c-4bfb-98c4-e7f3926e4775","HiveType":"Software","Category":"Program execution"}

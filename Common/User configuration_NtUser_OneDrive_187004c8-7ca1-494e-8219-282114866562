@@ -1,1 +1,1 @@
-{"Type":"User","Name":"OneDrive","KeyPath":"Software\\SyncEngines\\Providers\\OneDrive","ShortDescription":"OneDrive synced shared folders","LongDescription":"","InternalID":"187004c8-7ca1-494e-8219-282114866562","HiveType":"NtUser","Category":"User configuration"}
+{"Type":"Common","Name":"OneDrive","KeyPath":"Software\\SyncEngines\\Providers\\OneDrive","ShortDescription":"OneDrive synced shared folders","LongDescription":"","InternalID":"187004c8-7ca1-494e-8219-282114866562","HiveType":"NtUser","Category":"User configuration"}

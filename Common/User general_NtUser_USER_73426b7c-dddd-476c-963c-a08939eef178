@@ -1,1 +1,1 @@
-{"Type":"User","Name":"USER","KeyPath":"Software\\Microsoft\\Internet Explorer\\InternetRegistry\\REGISTRY\\USER","ShortDescription":"Domain user's SID","LongDescription":"","InternalID":"73426b7c-dddd-476c-963c-a08939eef178","HiveType":"NtUser","Category":"User general"}
+{"Type":"Common","Name":"USER","KeyPath":"Software\\Microsoft\\Internet Explorer\\InternetRegistry\\REGISTRY\\USER","ShortDescription":"Domain user's SID","LongDescription":"","InternalID":"73426b7c-dddd-476c-963c-a08939eef178","HiveType":"NtUser","Category":"User general"}

@@ -1,1 +1,1 @@
-{"Type":"User","Name":"Services","KeyPath":"ControlSet001\\Services","ShortDescription":"Service definitions and parameters","LongDescription":"","InternalID":"9a4c3785-ec1c-4248-8b0a-cc32a3578d67","HiveType":"System","Category":"Operating system"}
+{"Type":"Common","Name":"Services","KeyPath":"ControlSet001\\Services","ShortDescription":"Service definitions and parameters","LongDescription":"","InternalID":"9a4c3785-ec1c-4248-8b0a-cc32a3578d67","HiveType":"System","Category":"Operating system"}

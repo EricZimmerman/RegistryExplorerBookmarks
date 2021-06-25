@@ -1,1 +1,1 @@
-{"Type":"User","Name":"Environment","KeyPath":"Environment","ShortDescription":"UserInitMprLogonScript (Registry Key)","LongDescription":"https://attack.mitre.org/techniques/T1037/001/","InternalID":"4fde1564-214a-44e7-b600-70357b68be20","HiveType":"NtUser","Category":"Program execution"}
+{"Type":"Common","Name":"Environment","KeyPath":"Environment","ShortDescription":"UserInitMprLogonScript (Registry Key)","LongDescription":"https://attack.mitre.org/techniques/T1037/001/","InternalID":"4fde1564-214a-44e7-b600-70357b68be20","HiveType":"NtUser","Category":"Program execution"}

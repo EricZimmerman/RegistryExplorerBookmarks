@@ -1,0 +1,1 @@
+{"Type":"Common","Name":"RunOnce","KeyPath":"Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce","ShortDescription":"RunOnce (NTUser)","LongDescription":"RunOnce identifies programs that run only once at startup and can be assigned to a specific user account or to the machine","InternalID":"597a425c-391d-41d2-b707-d369c39f50e7","HiveType":"NtUser","Category":"Autoruns"}

@@ -1,0 +1,1 @@
+{"Type":"Common","Name":"RunOnce","KeyPath":"Microsoft\\Windows\\CurrentVersion\\RunOnce","ShortDescription":"RunOnce (SOFTWARE)","LongDescription":"RunOnce identifies programs that run only once at startup and can be assigned to a specific user account or to the machine","InternalID":"283d2dcc-4358-4223-996b-ecd53364309c","HiveType":"Software","Category":"Autoruns"}

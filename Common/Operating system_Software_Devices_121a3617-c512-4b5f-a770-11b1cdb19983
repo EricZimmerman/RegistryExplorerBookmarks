@@ -1,1 +1,0 @@
-{"Type":"Common","Name":"Devices","KeyPath":"Microsoft\\Windows Portable Devices\\Devices","ShortDescription":"List of portable devices","LongDescription":"Includes friendly name, and serial # info (from subkey names)","InternalID":"121a3617-c512-4b5f-a770-11b1cdb19983","HiveType":"Software","Category":"Operating system"}
